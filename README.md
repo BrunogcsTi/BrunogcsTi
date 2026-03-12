@@ -15,16 +15,9 @@
 
 ---
 
- 📂 Projetos
-
-🔹 Em breve adicionarei meus projetos aqui.
-
----
-
  📫 Contato
 
 * 📧 Email: [brunogcsinfo@gmail.com](mailto:brunogcsinfo@gmail.com)
-* 🐙 GitHub: https://github.com/BrunogcsTi
 
 ---
 
