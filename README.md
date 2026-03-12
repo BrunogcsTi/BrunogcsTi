@@ -1,4 +1,4 @@
-## Hi there 👋# 👋 Olá, eu sou Bruno
+👋 Olá, eu sou Bruno
 
 💻 Estudante de **Informática para Internet** na **ETEC Antônio Furlan**
 🚀 Interessado em **Desenvolvimento Web, Programação e Tecnologia**
@@ -6,7 +6,7 @@
 
 ---
 
-## 👨‍💻 Sobre mim
+ 👨‍💻 Sobre mim
 
 * 🎓 Estudante na ETEC Antônio Furlan
 * 🌐 Focado em **desenvolvimento web**
@@ -15,13 +15,13 @@
 
 ---
 
-## 📂 Projetos
+ 📂 Projetos
 
 🔹 Em breve adicionarei meus projetos aqui.
 
 ---
 
-## 📫 Contato
+ 📫 Contato
 
 * 📧 Email: [brunogcsinfo@gmail.com](mailto:brunogcsinfo@gmail.com)
 * 🐙 GitHub: https://github.com/BrunogcsTi
