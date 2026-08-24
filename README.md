@@ -8,7 +8,7 @@
 
  👨‍💻 Sobre mim
 
-* 🎓 Estudante na ETEC Antônio Furlan
+* 🎓 Estudante de Informatica para Internet 
 * 🌐 Focado em **desenvolvimento web**
 * 📖 Aprendendo **HTML, CSS, JavaScript e lógica de programação**
 * 🔧 Gosto de criar projetos para praticar e melhorar minhas habilidades
